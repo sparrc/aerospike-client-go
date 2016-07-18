@@ -26,7 +26,7 @@ import (
 	"strings"
 	"sync"
 
-	lualib "github.com/aerospike/aerospike-client-go/internal/lua"
+	lualib "github.com/sparrc/aerospike-client-go/internal/lua"
 	. "github.com/aerospike/aerospike-client-go/types"
 	"github.com/yuin/gopher-lua"
 )
